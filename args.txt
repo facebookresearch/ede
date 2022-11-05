@@ -1,0 +1,4 @@
+--T_max 25000000 --start_timesteps 1000 --eval_freq 5000 --env_name starpilot --train_freq 8
+--T_max 25000000 --start_timesteps 1000 --eval_freq 5000 --env_name jumper --train_freq 8
+--T_max 25000000 --start_timesteps 1000 --eval_freq 5000 --env_name starpilot --train_freq 16
+--T_max 25000000 --start_timesteps 1000 --eval_freq 5000 --env_name jumper --train_freq 16
