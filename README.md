@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of the methods proposed in
 
-[**Uncertainty-Driven Exploration for Generalization in Reinforcement Learning**](https://openreview.net/pdf?id=nulUqBMpBb) by 
+[On the Importance of Exploration for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2306.05483.pdf) by 
 
 Yiding Jiang, Zico Kolter, and Roberta Raileanu.
 
